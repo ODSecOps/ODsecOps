@@ -1,6 +1,6 @@
 <div align="center">
 
-# 💀 ALEX
+# 💀 ODSecOps
 
 ### 🛡️ Cybersecurity Student | Ethical Hacking | Linux
 
@@ -17,7 +17,7 @@
 ```bash
 > whoami
 
-Name        : Alex
+Name        : ODSecOps
 Role        : Cybersecurity Student
 Country     : Dominican Republic
 Focus       : Ethical Hacking
